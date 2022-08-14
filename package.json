@@ -1,0 +1,24 @@
+{
+  "name": "ggm_civilwar",
+  "version": "1.0.0",
+  "description": "박세훈과 함께하는 내전봇개발",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GGM-DiscordBot-Developer/GGM_CivilWar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GGM-DiscordBot-Developer/GGM_CivilWar/issues"
+  },
+  "homepage": "https://github.com/GGM-DiscordBot-Developer/GGM_CivilWar#readme",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
